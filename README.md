@@ -17,7 +17,7 @@ You will need to install:
 
 ## Authors
 
-**Joshua McDonald** - *Initial work* - [joshMD](https://github.com/joshhMD)
+**Joshua McDonald** - *Initial work* - [joshhMD](https://github.com/joshhMD)
 
 ![](https://cdn.discordapp.com/attachments/749748349896491029/750494396738174986/unknown.png)
 ![](https://cdn.discordapp.com/attachments/749748349896491029/750494471707426856/unknown.png)
